@@ -2,5 +2,12 @@
     height: 80px;
     width: 100%;
     background-color: #D1D2FA;
+    background-image: linear-gradient(to right,#B5B6F8,#E8E8FD);
     border-radius: 2px;
+    display: flex;
+    color: #4D4D4D;
+}
+.navbar p{
+    margin-top: 25px;
+    padding-left: 50px;
 }

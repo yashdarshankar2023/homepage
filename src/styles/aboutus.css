@@ -1,0 +1,25 @@
+.aboutus{
+    margin-top: 650px;
+    background-color: #E8E8FD;
+    height: 600px;
+    display: flex;
+}
+.aboutus .first{
+    width: 50%;
+    border: solid black 1px;
+    
+}
+
+.aboutus .second{
+    width: 50%;
+   
+    
+}
+.aboutus .second p{
+    width: 80%;
+    padding-left: 10%;
+    color: #4D4D4D;
+}
+.aboutus .second h1{
+    color: #5D5FEF;
+}
